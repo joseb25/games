@@ -2,7 +2,7 @@
 """
 Created on Sat May  4 11:19:00 2024
 
-@author: PC
+@author: JBN
 """
 
 import pygame
